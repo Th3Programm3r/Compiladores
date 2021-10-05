@@ -1,0 +1,12 @@
+# Just a simple integer.
+int main(){
+  y=0;
+  x=0;
+    if(x<5){
+      scanf("%d",&d);
+    }
+    else{
+      y=5;
+    }
+
+}
