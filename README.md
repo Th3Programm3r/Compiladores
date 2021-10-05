@@ -8,4 +8,6 @@ result converted mips code will be in a file named mips.asm.
 The application first receives the c code defined in the txt file, then it converts to pcode that is defined on the file stack.h and the
 p codes instructions are implemented in the file stack.c, and after converting to pcode it writes the code to a file named mips.asm.
 
+ ## Other
+ Information about others functions implemented like interpreter.c,printAbsTree.c, etc can be found in the file README.txt.
 
